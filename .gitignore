@@ -18,9 +18,9 @@ docs/plans/
 .idea
 
 # Docker Compose Environment File
-.env
 
 dist
 
 # VSCode settings
-.vscode
+config.bat
+node_modules
